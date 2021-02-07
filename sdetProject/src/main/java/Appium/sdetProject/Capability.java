@@ -35,16 +35,6 @@ public class Capability
 		service.start();
 		return service;
 		
-	/*
-	service = AppiumDriverLocalService.buildService(new AppiumServiceBuilder()
-            //This is the path of my Nodesjs
-            .usingDriverExecutable(new File("C:\\Program Files\\nodejs\\node.exe"))
-            //This is the path of  my appium 
-            .withAppiumJS(new File("C:\\Users\\KaifaMandal\\AppData\\Roaming\\npm\\node_modules\\appium\\build\\lib\\main.js"))
-            //should start with ip adderes and port id
-            .withIPAddress("127.0.0.1").usingPort(4723));
-    service.start();
-	*/	
 		}
 		return service;
 	}
