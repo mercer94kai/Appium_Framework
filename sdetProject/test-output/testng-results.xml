@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="5" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51320" started-at="2021-02-07T20:39:07 IST" finished-at="2021-02-07T20:39:59 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51320" started-at="2021-02-07T20:39:07 IST" finished-at="2021-02-07T20:39:59 IST">
+      <class name="Appium.sdetProject.Base">
+        <test-method status="PASS" signature="bt()[pri:0, instance:Appium.sdetProject.Base@612679d6]" name="bt" is-config="true" duration-ms="16115" started-at="2021-02-07T20:39:07 IST" finished-at="2021-02-07T20:39:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:Appium.sdetProject.Base@612679d6]" name="testcase1" duration-ms="18084" started-at="2021-02-07T20:39:23 IST" finished-at="2021-02-07T20:39:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:Appium.sdetProject.Base@612679d6]" name="testcase2" duration-ms="9036" started-at="2021-02-07T20:39:42 IST" finished-at="2021-02-07T20:39:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:Appium.sdetProject.Base@612679d6]" name="testcase3" duration-ms="8025" started-at="2021-02-07T20:39:51 IST" finished-at="2021-02-07T20:39:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+      </class> <!-- Appium.sdetProject.Base -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
